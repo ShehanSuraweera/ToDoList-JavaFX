@@ -19,10 +19,14 @@ This is a simple **TodoList application** developed using **Java**, **JavaFX**, 
 
 ## Screenshots
 
-### Main Application Window
+### Application Login Window
 
-![Main Window](screenshots/main-window.png)
+![Login](screenshots/login.png)
 
-### Add Task Feature
+### Application Register Window
 
-![Add Task](screenshots/add-task.png)
+![Register](screenshots/register.png)
+
+### Application Main Window
+
+![Main Window](screenshots/main.png)
