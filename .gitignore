@@ -1,0 +1,44 @@
+# Java-related files
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.iml
+
+# IDE-specific files
+/.idea/
+/*.iws
+/*.ipr
+/.vscode/
+/*.project
+/*.classpath
+/.settings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build-related files
+/build/
+/target/
+/out/
+
+# JavaFX libraries (if included locally)
+lib/*
+
+# Database files
+*.sql
+*.db
+
+# Other unnecessary files
+*.tmp
+*.bak
+*.swp
+
+# Logs
+logs/
+*.log
+
+# Environment variable files
+.env
